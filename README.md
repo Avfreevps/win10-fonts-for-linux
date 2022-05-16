@@ -8,4 +8,3 @@ git clone https://github.com/adtitas/win10-fonts-for-linux.git && sudo mkdir -p 
 ```
 ### Notes
 * If `git` isn't installed on your system, you may need to install it. Visit [here](https://git-scm.com/download/linux).
-```
